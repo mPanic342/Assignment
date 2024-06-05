@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+    color: yellow;
+}
+header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    border: 100px solid blue;
+    position: center;
+    
+}
+img.linusTheHottie{
+    border: 10px solid red;
+    position: center;
+}
+img.pickles{
+    border: 10px solid magenta;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    border: 10px solid black;   
+}
+a.pickleLink{
+    color: yellow;
+}
+a.linusLink{
+    color:red;
+}
