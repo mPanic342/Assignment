@@ -1,20 +1,25 @@
-body{
+body {
     background-color: green;
     color: yellow;
 }
+
 header {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: xx-large;
-    border: 100px solid blue;
-    position: center;
-    
+    border: 10px solid blue;
+    text-align: center; 
 }
-img.linusTheHottie{
+
+img.linusTheHottie {
     border: 10px solid red;
-    position: center;
+    display: block; 
+    margin: auto; 
 }
-img.pickles{
+
+img.pickles {
     border: 10px solid magenta;
+    display: block; 
+    margin: auto; 
 }
 
 a {
@@ -22,9 +27,11 @@ a {
     font-size: xx-large;
     border: 10px solid black;   
 }
-a.pickleLink{
+
+a.pickleLink {
     color: yellow;
 }
-a.linusLink{
-    color:red;
+
+a.linusLink {
+    color: red;
 }
